@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://32-5bw.anonymous.lcrn11-travel-app-starter-master.exp.direct",
+  "packagerNgrokUrl": "https://packager.32-5bw.anonymous.lcrn11-travel-app-starter-master.exp.direct",
+  "ngrokPid": 8692,
+  "packagerPid": null,
+  "webpackServerPort": null
+}

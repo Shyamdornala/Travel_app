@@ -1,0 +1,8 @@
+{
+  "name": "TravelApp",
+  "displayName": "TravelApp",
+  "expo": {
+    "name": "TravelApp",
+    "sdkVersion": "41.0.0"
+    }
+}
